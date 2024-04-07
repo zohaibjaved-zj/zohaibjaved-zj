@@ -5,8 +5,6 @@
 - 📫 How to reach me
 - linkedin - www.linkedin.com/in/muhammad-zohaib-46436a282
 - instagram - https://www.instagram.com/zohaibprofessional/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 zohaibjaved-zj/zohaibjaved-zj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
