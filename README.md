@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zohaibjaved-zj
+- 👋 Hi, I’m Muhammad Zohaib
 - 👀 I’m interested in Cyber Security & Digital Forensics 
 - 🌱 I’m currently learning Cybersecurity.
 - 💞️ I’m also a GOOGLE CYBERSECURITY certfied. i'm highly motivated Cybersecurity enthusiast, Student of Cyber Security and Digital Forensics. 
